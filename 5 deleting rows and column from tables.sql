@@ -23,6 +23,9 @@ delete from employees
 where employee_id=202;
 
 
+select * from employeee;
+
+
 alter table  employees
 drop column department;
 
