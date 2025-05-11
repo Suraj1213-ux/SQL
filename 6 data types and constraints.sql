@@ -24,3 +24,6 @@ VALUES
 ('Raj Patel', 'raj.patel@example.com', '9876543217', 30000.00, 'Male', FALSE),
 ('Neha Verma', 'neha.verma@example.com', '9876543218', 40000.00, 'Female', TRUE),
 ('Amit Rao', 'amit.rao@example.com', '9876543219', 28000.00, 'Male', TRUE);
+
+
+select * from employee 
