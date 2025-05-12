@@ -33,6 +33,8 @@ where name='Suraj Sawant' ;
 
 select *from employee order by id asc;
 
+select * from employee ;
+
 update employee 
 set name='Rutuja Sawant', phone=7722069600
 where name='Archana Patil' ;
